@@ -1,0 +1,10 @@
+font:
+  size: 18
+
+cursor:
+  style: beam
+  unfocused_hollow: false
+
+colors:
+  primary:
+    background: '#000000'
